@@ -199,5 +199,5 @@ public enum Sound_1_8 {
     VILLAGER_HIT,
     VILLAGER_IDLE,
     VILLAGER_NO,
-    VILLAGER_YES;
+    VILLAGER_YES
 }

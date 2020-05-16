@@ -510,6 +510,6 @@ public enum SoundCompat {
     }
 
     enum SupportedVersion {
-        V1_8, V1_9, V1_10;
+        V1_8, V1_9, V1_10
     }
 }
